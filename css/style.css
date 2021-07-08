@@ -610,7 +610,7 @@ button span{
   width: 100%;
   grid-template-columns: repeat(auto-fit,minmax(33%,1fr));
   margin-top: -4rem;
-  color: var(--paleCyan);
+  color: white;
   font-family: 'Open Sans','sans-serif';
   background-color: var(--darkGrayishBlue);
   padding-left: 12rem;
