@@ -360,7 +360,6 @@ button span{
 .invi-container{
     align-self: center;
     position:relative;
-    z-index: 1;
 }
 
 #invitation{
